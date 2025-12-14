@@ -1,0 +1,30 @@
+
+[2025-12-04T19:07:11.693Z] LLM Call Failed
+Error: Request failed with status code 404
+Stack: AxiosError: Request failed with status code 404
+    at settle (D:\PROJECTS\smartdine\backend\node_modules\axios\dist\node\axios.cjs:2106:12)
+    at IncomingMessage.handleStreamEnd (D:\PROJECTS\smartdine\backend\node_modules\axios\dist\node\axios.cjs:3491:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (D:\PROJECTS\smartdine\backend\node_modules\axios\dist\node\axios.cjs:4731:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async callLLM (D:\PROJECTS\smartdine\backend\src\routes\query.js:41:26)
+    at async D:\PROJECTS\smartdine\backend\src\routes\query.js:108:23
+Response Data: {}
+-------------------
+
+[2025-12-04T19:10:13.257Z] LLM Call Failed
+Error: Request failed with status code 404
+Stack: AxiosError: Request failed with status code 404
+    at settle (D:\PROJECTS\smartdine\backend\node_modules\axios\dist\node\axios.cjs:2106:12)
+    at IncomingMessage.handleStreamEnd (D:\PROJECTS\smartdine\backend\node_modules\axios\dist\node\axios.cjs:3491:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (D:\PROJECTS\smartdine\backend\node_modules\axios\dist\node\axios.cjs:4731:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async callLLM (D:\PROJECTS\smartdine\backend\src\routes\query.js:41:26)
+    at async D:\PROJECTS\smartdine\backend\src\routes\query.js:108:23
+Response Data: {}
+-------------------

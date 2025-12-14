@@ -1,0 +1,1266 @@
+[
+    {
+        "id": "r001",
+        "name": "Sree Annapoorna",
+        "cuisines": [
+            "South Indian",
+            "Chettinad",
+            "Vegetarian"
+        ],
+        "price_level": "budget",
+        "location": "Ramnagar, Coimbatore",
+        "coordinates": {
+            "lat": 11.0169,
+            "lon": 76.9558
+        },
+        "rating": 4.4,
+        "tags": [
+            "traditional",
+            "tiffin",
+            "family-friendly"
+        ],
+        "description": "Popular vegetarian chain known for hearty South Indian meals and quick service.",
+        "menu_highlights": [
+            {
+                "name": "Thali (Veg)",
+                "price": "₹120",
+                "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Rava Dosa",
+                "price": "₹60",
+                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Filter Coffee",
+                "price": "₹25",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Idli (2 pcs)",
+                "price": "₹40",
+                "image": "https://images.pexels.com/photos/14477866/pexels-photo-14477866.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Masala Dosa",
+                "price": "₹80",
+                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Payasam",
+                "price": "₹50",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "06:30 AM - 10:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r002",
+        "name": "Junior Kuppanna",
+        "cuisines": [
+            "Chettinad",
+            "South Indian",
+            "Non-Veg"
+        ],
+        "price_level": "medium",
+        "location": "R.S. Puram, Coimbatore",
+        "coordinates": {
+            "lat": 11.016,
+            "lon": 76.9419
+        },
+        "rating": 4.3,
+        "tags": [
+            "biryani",
+            "non-veg-specialty",
+            "family"
+        ],
+        "description": "Known for spicy Chettinad gravies and flavorful biryanis.",
+        "menu_highlights": [
+            {
+                "name": "Chicken Chettinad",
+                "price": "₹260",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Mutton Biryani",
+                "price": "₹320",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            },
+            {
+                "name": "Fish Fry",
+                "price": "₹220",
+                "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+            },
+            {
+                "name": "Ghee Roast Dosa",
+                "price": "₹95",
+                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Chicken 65",
+                "price": "₹180",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Curd Rice",
+                "price": "₹90",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            }
+        ],
+        "opening_hours": "11:00 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r003",
+        "name": "Shree Anandhaas",
+        "cuisines": [
+            "South Indian",
+            "North Indian",
+            "Vegetarian"
+        ],
+        "price_level": "budget",
+        "location": "Ramnagar / Avinashi Road, Coimbatore",
+        "coordinates": {
+            "lat": 11.0202,
+            "lon": 76.9581
+        },
+        "rating": 4.2,
+        "tags": [
+            "traditional",
+            "thali",
+            "affordable"
+        ],
+        "description": "Budget-friendly veg restaurant famous for quick meals and consistent taste.",
+        "menu_highlights": [
+            {
+                "name": "Veg Thali",
+                "price": "₹110",
+                "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Sambar Vada",
+                "price": "₹70",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Mor Kuzhambu",
+                "price": "₹95",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Poori Masala",
+                "price": "₹80",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Mysore Pak (sweet)",
+                "price": "₹40",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "07:00 AM - 10:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r004",
+        "name": "Barbeque Nation - Coimbatore",
+        "cuisines": [
+            "North Indian",
+            "BBQ",
+            "Buffet"
+        ],
+        "price_level": "expensive",
+        "location": "Town Hall / Avinashi Road, Coimbatore",
+        "coordinates": {
+            "lat": 11.0128,
+            "lon": 76.9594
+        },
+        "rating": 4.1,
+        "tags": [
+            "buffet",
+            "live-grill",
+            "group-friendly"
+        ],
+        "description": "Nationwide barbeque chain offering live grills and wide buffet selections.",
+        "menu_highlights": [
+            {
+                "name": "Veg \u0026 Non-Veg Live Grill Platter (per person)",
+                "price": "₹699",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Paneer Tikka (starter)",
+                "price": "₹260",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Lamb Seekh Kebab",
+                "price": "₹320",
+                "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+            },
+            {
+                "name": "Assorted Desserts (buffet)",
+                "price": "₹199",
+                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "12:00 PM - 11:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r005",
+        "name": "The Living Room",
+        "cuisines": [
+            "Multi-cuisine",
+            "Asian",
+            "Continental"
+        ],
+        "price_level": "medium",
+        "location": "Peelamedu, Coimbatore",
+        "coordinates": {
+            "lat": 11.0301,
+            "lon": 76.981
+        },
+        "rating": 4.5,
+        "tags": [
+            "lounge",
+            "aesthetic",
+            "group"
+        ],
+        "description": "Casual multi-cuisine restaurant with cosy ambience and continental options.",
+        "menu_highlights": [
+            {
+                "name": "Spaghetti Aglio Olio",
+                "price": "₹320",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Paneer Pepper Steak",
+                "price": "₹350",
+                "image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg"
+            },
+            {
+                "name": "Butter Chicken",
+                "price": "₹340",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Classic Caesar Salad",
+                "price": "₹220",
+                "image": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Chocolate Brownie with Ice Cream",
+                "price": "₹180",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "10:00 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r006",
+        "name": "Dindigul Thalappakatti",
+        "cuisines": [
+            "South Indian",
+            "Biryani",
+            "Non-Veg"
+        ],
+        "price_level": "medium",
+        "location": "Ramnagar, Coimbatore",
+        "coordinates": {
+            "lat": 11.0179,
+            "lon": 76.9562
+        },
+        "rating": 4.2,
+        "tags": [
+            "biryani",
+            "spicy",
+            "traditional"
+        ],
+        "description": "Famous chain from Dindigul, known for its distinct biryani style.",
+        "menu_highlights": [
+            {
+                "name": "Dindigul Mutton Biryani",
+                "price": "₹330",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            },
+            {
+                "name": "Chicken Biryani",
+                "price": "₹270",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            },
+            {
+                "name": "Kola Urundai (meatballs)",
+                "price": "₹200",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Parotta",
+                "price": "₹60",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "11:00 AM - 10:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r007",
+        "name": "Kovai Kitchen",
+        "cuisines": [
+            "South Indian",
+            "Chettinad",
+            "Seafood"
+        ],
+        "price_level": "medium",
+        "location": "Gandhipuram, Coimbatore",
+        "coordinates": {
+            "lat": 11.0105,
+            "lon": 76.959
+        },
+        "rating": 4.3,
+        "tags": [
+            "local-favourites",
+            "seafood",
+            "family"
+        ],
+        "description": "Local favourite for spicy Chettinad fare and coastal seafood dishes.",
+        "menu_highlights": [
+            {
+                "name": "Prawn Masala",
+                "price": "₹360",
+                "image": "https://www.themealdb.com/images/media/meals/1529446137.jpg"
+            },
+            {
+                "name": "Chettinad Chicken",
+                "price": "₹260",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Fish Curry (Coastal style)",
+                "price": "₹280",
+                "image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+            },
+            {
+                "name": "Kuzhi Paniyaram",
+                "price": "₹80",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "07:30 AM - 10:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r008",
+        "name": "Peacock (Fine Dining)",
+        "cuisines": [
+            "Indian",
+            "Continental"
+        ],
+        "price_level": "expensive",
+        "location": "Race Course / Brookefields area, Coimbatore",
+        "coordinates": {
+            "lat": 11.0192,
+            "lon": 76.9465
+        },
+        "rating": 4.6,
+        "tags": [
+            "fine-dining",
+            "celebrations",
+            "grill"
+        ],
+        "description": "Upscale restaurant perfect for celebrations and business dinners.",
+        "menu_highlights": [
+            {
+                "name": "Grilled Salmon Fillet",
+                "price": "₹650",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Rogan Josh (Lamb)",
+                "price": "₹480",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Truffle Mushroom Risotto",
+                "price": "₹520",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Chocolate Fondant",
+                "price": "₹240",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "12:00 PM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r009",
+        "name": "Bird on Tree",
+        "cuisines": [
+            "Cafe",
+            "Continental",
+            "Italian"
+        ],
+        "price_level": "medium",
+        "location": "R.S. Puram, Coimbatore",
+        "coordinates": {
+            "lat": 11.0174,
+            "lon": 76.941
+        },
+        "rating": 4.4,
+        "tags": [
+            "cafe",
+            "brunch",
+            "instagrammable"
+        ],
+        "description": "Trendy cafe known for brunch dishes, coffee, and desserts.",
+        "menu_highlights": [
+            {
+                "name": "Eggs Benedict",
+                "price": "₹320",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Avocado Toast",
+                "price": "₹260",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Flat White (coffee)",
+                "price": "₹140",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Nutella Crepe",
+                "price": "₹220",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "08:00 AM - 10:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r010",
+        "name": "The Edition - Library Bar (Residency Hotel)",
+        "cuisines": [
+            "Bar",
+            "Continental",
+            "Finger Food"
+        ],
+        "price_level": "expensive",
+        "location": "Race Course, Coimbatore",
+        "coordinates": {
+            "lat": 11.0188,
+            "lon": 76.947
+        },
+        "rating": 4.5,
+        "tags": [
+            "bar",
+            "cocktails",
+            "hotel-restaurant"
+        ],
+        "description": "Hotel bar with crafted cocktails and small plates in a library-inspired setting.",
+        "menu_highlights": [
+            {
+                "name": "Classic Margarita",
+                "price": "₹450",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Crispy Calamari",
+                "price": "₹420",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Beef Sliders (3 pcs)",
+                "price": "₹380",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Artisanal Cheese Platter",
+                "price": "₹580",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "05:00 PM - 12:00 AM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r011",
+        "name": "Cream Centre (Coimbatore)",
+        "cuisines": [
+            "Indian",
+            "Italian",
+            "Desserts"
+        ],
+        "price_level": "medium",
+        "location": "Gopalapuram, Coimbatore",
+        "coordinates": {
+            "lat": 11.022,
+            "lon": 76.97
+        },
+        "rating": 4.2,
+        "tags": [
+            "desserts",
+            "family",
+            "cafeteria"
+        ],
+        "description": "Known for desserts, milkshakes and vegetarian fast-casual meals.",
+        "menu_highlights": [
+            {
+                "name": "Classic Margherita Pizza",
+                "price": "₹320",
+                "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Paneer Tikka Masala",
+                "price": "₹260",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Falooda",
+                "price": "₹160",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Cold Coffee (large)",
+                "price": "₹150",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "10:00 AM - 10:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r012",
+        "name": "Chives (Hotel CAG Pride)",
+        "cuisines": [
+            "Asian",
+            "Continental",
+            "Buffet"
+        ],
+        "price_level": "expensive",
+        "location": "Bharathiyar Road, Coimbatore",
+        "coordinates": {
+            "lat": 11.0285,
+            "lon": 76.9815
+        },
+        "rating": 4.6,
+        "tags": [
+            "hotel",
+            "buffet",
+            "fine-dining"
+        ],
+        "description": "Hotel multi-cuisine restaurant offering themed buffets and a la carte menus.",
+        "menu_highlights": [
+            {
+                "name": "Pan-Seared Sea Bass",
+                "price": "₹620",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Thai Green Curry (veg/non-veg)",
+                "price": "₹380",
+                "image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+            },
+            {
+                "name": "Live Sushi Platter (weekends)",
+                "price": "₹750",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Sunday Brunch (per person)",
+                "price": "₹999",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "07:00 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r013",
+        "name": "Tiki Tako",
+        "cuisines": [
+            "Continental",
+            "Seafood",
+            "Fusion"
+        ],
+        "price_level": "expensive",
+        "location": "Ram Nagar, Coimbatore",
+        "coordinates": {
+            "lat": 11.018,
+            "lon": 76.9565
+        },
+        "rating": 4.1,
+        "tags": [
+            "fusion",
+            "seafood",
+            "rooftop"
+        ],
+        "description": "Rooftop restaurant serving fusion plates and creative seafood preparations.",
+        "menu_highlights": [
+            {
+                "name": "Tiki Fish Tacos (3 pcs)",
+                "price": "₹420",
+                "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+            },
+            {
+                "name": "Coconut Prawn Curry",
+                "price": "₹460",
+                "image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+            },
+            {
+                "name": "Mango Cheesecake",
+                "price": "₹220",
+                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "12:00 PM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r014",
+        "name": "Sherlock\u0027s Kitchen \u0026 Bar",
+        "cuisines": [
+            "North Indian",
+            "Bar",
+            "Grill"
+        ],
+        "price_level": "expensive",
+        "location": "Brookefields / RS Puram, Coimbatore",
+        "coordinates": {
+            "lat": 11.019,
+            "lon": 76.9435
+        },
+        "rating": 4.4,
+        "tags": [
+            "grill",
+            "bar",
+            "group-dining"
+        ],
+        "description": "Popular bar \u0026 grill offering kebabs, steaks and continental mains.",
+        "menu_highlights": [
+            {
+                "name": "Ribeye Steak (250g)",
+                "price": "₹980",
+                "image": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Mutton Sheekh Platter",
+                "price": "₹420",
+                "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+            },
+            {
+                "name": "Loaded Fries",
+                "price": "₹210",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Old Fashioned (cocktail)",
+                "price": "₹420",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "05:00 PM - 01:00 AM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r015",
+        "name": "Little Soi",
+        "cuisines": [
+            "Asian",
+            "Thai",
+            "Chinese"
+        ],
+        "price_level": "medium",
+        "location": "Bharathiyar Road, Coimbatore",
+        "coordinates": {
+            "lat": 11.0265,
+            "lon": 76.982
+        },
+        "rating": 4.3,
+        "tags": [
+            "asian",
+            "authentic",
+            "noodles"
+        ],
+        "description": "Asian speciality restaurant with Thai and Pan-Asian offerings.",
+        "menu_highlights": [
+            {
+                "name": "Pad Thai",
+                "price": "₹320",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Thai Tom Yum Soup",
+                "price": "₹220",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Honey Chilli Potato",
+                "price": "₹160",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Green Curry Chicken",
+                "price": "₹340",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            }
+        ],
+        "opening_hours": "11:30 AM - 10:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r016",
+        "name": "Fully Biryani",
+        "cuisines": [
+            "South Indian",
+            "Biryani",
+            "Hyderabadi"
+        ],
+        "price_level": "medium",
+        "location": "Sanganoor, Coimbatore",
+        "coordinates": {
+            "lat": 11.036,
+            "lon": 77.017
+        },
+        "rating": 4.2,
+        "tags": [
+            "biryani",
+            "takeaway",
+            "family"
+        ],
+        "description": "Local biryani outlet focusing on Hyderabadi and Tamil-style biryanis.",
+        "menu_highlights": [
+            {
+                "name": "Hyderabadi Chicken Biryani",
+                "price": "₹260",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            },
+            {
+                "name": "Egg Biryani",
+                "price": "₹180",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            },
+            {
+                "name": "Mutton Sukka",
+                "price": "₹300",
+                "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+            }
+        ],
+        "opening_hours": "11:00 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r017",
+        "name": "Bizou Cafe \u0026 Grill",
+        "cuisines": [
+            "Cafe",
+            "French",
+            "Italian"
+        ],
+        "price_level": "medium",
+        "location": "Saibaba Colony, Coimbatore",
+        "coordinates": {
+            "lat": 11.0095,
+            "lon": 76.9535
+        },
+        "rating": 4.4,
+        "tags": [
+            "brunch",
+            "coffee",
+            "patio"
+        ],
+        "description": "Charming cafe offering European-style breakfasts, pizzas and grilled mains.",
+        "menu_highlights": [
+            {
+                "name": "Croque Monsieur",
+                "price": "₹350",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Quinoa Salad",
+                "price": "₹270",
+                "image": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Sourdough Pizza - Margherita",
+                "price": "₹360",
+                "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Espresso (single)",
+                "price": "₹110",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "08:00 AM - 10:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r018",
+        "name": "FB Cakes (Dessert Studio)",
+        "cuisines": [
+            "Bakery",
+            "Desserts",
+            "Cafe"
+        ],
+        "price_level": "budget",
+        "location": "New Siddhapudur, Coimbatore",
+        "coordinates": {
+            "lat": 11.0035,
+            "lon": 76.995
+        },
+        "rating": 4.6,
+        "tags": [
+            "desserts",
+            "cakes",
+            "takeaway"
+        ],
+        "description": "Popular patisserie known for designer cakes, desserts and bakes.",
+        "menu_highlights": [
+            {
+                "name": "Red Velvet Cake (slice)",
+                "price": "₹220",
+                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Chocolate Eclair",
+                "price": "₹140",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Butterscotch Pastry",
+                "price": "₹120",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Cold Coffee",
+                "price": "₹130",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "09:00 AM - 09:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r019",
+        "name": "The Bermuda (Cafe \u0026 Grill)",
+        "cuisines": [
+            "American",
+            "Asian",
+            "Barbecue"
+        ],
+        "price_level": "medium",
+        "location": "RS Puram, Coimbatore",
+        "coordinates": {
+            "lat": 11.0185,
+            "lon": 76.943
+        },
+        "rating": 4.2,
+        "tags": [
+            "casual-dining",
+            "spacey",
+            "burgers"
+        ],
+        "description": "Casual dining spot with burgers, grills and sharing plates.",
+        "menu_highlights": [
+            {
+                "name": "Signature Beef Burger",
+                "price": "₹320",
+                "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "BBQ Chicken Wings (6 pcs)",
+                "price": "₹280",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Coleslaw",
+                "price": "₹120",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "11:00 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r020",
+        "name": "On The Go (Multi-cuisine)",
+        "cuisines": [
+            "North Indian",
+            "South Indian",
+            "Fast Food"
+        ],
+        "price_level": "medium",
+        "location": "Gopalapuram, Coimbatore",
+        "coordinates": {
+            "lat": 11.023,
+            "lon": 76.9655
+        },
+        "rating": 4.1,
+        "tags": [
+            "family",
+            "quick-service",
+            "affordable"
+        ],
+        "description": "Local popular chain for family meals and quick, reliable options.",
+        "menu_highlights": [
+            {
+                "name": "Paneer Butter Masala",
+                "price": "₹220",
+                "image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg"
+            },
+            {
+                "name": "Chola Poori",
+                "price": "₹140",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Gobi Manchurian",
+                "price": "₹160",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Schezwan Noodles",
+                "price": "₹180",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "07:30 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r021",
+        "name": "Mufasa (South Indian \u0026 More)",
+        "cuisines": [
+            "South Indian",
+            "North Indian",
+            "Desserts"
+        ],
+        "price_level": "medium",
+        "location": "Race Course, Coimbatore",
+        "coordinates": {
+            "lat": 11.018,
+            "lon": 76.948
+        },
+        "rating": 4.2,
+        "tags": [
+            "family",
+            "desserts",
+            "multi"
+        ],
+        "description": "Comfortable family restaurant with a wide menu including desserts and snacks.",
+        "menu_highlights": [
+            {
+                "name": "Mutton Korma",
+                "price": "₹300",
+                "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+            },
+            {
+                "name": "Chicken Tikka",
+                "price": "₹260",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Gulab Jamun (2 pcs)",
+                "price": "₹90",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Naan / Roti Basket",
+                "price": "₹150",
+                "image": "https://www.themealdb.com/images/media/meals/naan-01.jpg"
+            }
+        ],
+        "opening_hours": "08:00 AM - 10:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r022",
+        "name": "Cafe Put Kadalai",
+        "cuisines": [
+            "Cafe",
+            "Italian",
+            "Coffee"
+        ],
+        "price_level": "budget",
+        "location": "Gopalapuram, Coimbatore",
+        "coordinates": {
+            "lat": 11.0215,
+            "lon": 76.969
+        },
+        "rating": 4.0,
+        "tags": [
+            "cozy",
+            "coffee",
+            "pasta"
+        ],
+        "description": "Small cafe serving pasta, sandwiches and strong coffee.",
+        "menu_highlights": [
+            {
+                "name": "Penne Arrabiata",
+                "price": "₹260",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Grilled Cheese Sandwich",
+                "price": "₹180",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Iced Americano",
+                "price": "₹140",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Mushroom Bruschetta",
+                "price": "₹200",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "08:30 AM - 09:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r023",
+        "name": "Sharief Bhai Biryani",
+        "cuisines": [
+            "Mughlai",
+            "Biryani",
+            "North Indian"
+        ],
+        "price_level": "budget",
+        "location": "RS Puram, Coimbatore",
+        "coordinates": {
+            "lat": 11.0195,
+            "lon": 76.944
+        },
+        "rating": 4.3,
+        "tags": [
+            "biryani",
+            "takeaway",
+            "halal"
+        ],
+        "description": "Locally famous biryani joint with aromatic spice blends and generous portions.",
+        "menu_highlights": [
+            {
+                "name": "Chicken Biryani (single)",
+                "price": "₹190",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            },
+            {
+                "name": "Mutton Biryani (plate)",
+                "price": "₹290",
+                "image": "https://www.themealdb.com/images/media/meals/1550440.jpg"
+            },
+            {
+                "name": "Bread Halwa",
+                "price": "₹80",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Pepper Chicken (starter)",
+                "price": "₹220",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            }
+        ],
+        "opening_hours": "11:00 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r024",
+        "name": "Rasanai (Hotel CAG Pride)",
+        "cuisines": [
+            "South Indian",
+            "Indian",
+            "Buffet"
+        ],
+        "price_level": "expensive",
+        "location": "Bharathiyar Road, Coimbatore",
+        "coordinates": {
+            "lat": 11.028,
+            "lon": 76.9822
+        },
+        "rating": 4.5,
+        "tags": [
+            "hotel-restaurant",
+            "buffet",
+            "traditional"
+        ],
+        "description": "Upscale hotel restaurant serving refined South Indian and pan-Indian dishes.",
+        "menu_highlights": [
+            {
+                "name": "Spicy Chettinad Mutton",
+                "price": "₹480",
+                "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+            },
+            {
+                "name": "Kongunadu Chicken",
+                "price": "₹360",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Vegetable Stew (Kerala style)",
+                "price": "₹250",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Elaneer Payasam",
+                "price": "₹180",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "07:00 AM - 11:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    },
+    {
+        "id": "r025",
+        "name": "Bulls \u0026 Bears Bistro",
+        "cuisines": [
+            "Continental",
+            "Bar",
+            "Cafe"
+        ],
+        "price_level": "medium",
+        "location": "Peelamedu, Coimbatore",
+        "coordinates": {
+            "lat": 11.031,
+            "lon": 76.979
+        },
+        "rating": 4.1,
+        "tags": [
+            "bistro",
+            "cocktails",
+            "evening"
+        ],
+        "description": "Neighborhood bistro serving tapas, grills and evening drinks.",
+        "menu_highlights": [
+            {
+                "name": "Tapas Platter (for 2)",
+                "price": "₹480",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Spicy Chicken Wings",
+                "price": "₹280",
+                "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+            },
+            {
+                "name": "Mojito Pitcher",
+                "price": "₹900",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            },
+            {
+                "name": "Nachos Grande",
+                "price": "₹320",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            }
+        ],
+        "opening_hours": "12:00 PM - 12:00 AM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+        ]
+    }
+]
