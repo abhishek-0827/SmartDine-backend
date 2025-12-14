@@ -32,7 +32,7 @@ function extractFirstJson(text) {
     }
 }
 
-// Helper to call OpenRouter API with Context
+// Helper to call Groq API with Context
 async function callSmartLLM(userText, restaurantContext) {
     const prompt = `
 You are a smart restaurant concierge.
@@ -71,36 +71,35 @@ Output Format (JSON ONLY):
 `;
 
     try {
-        const model = process.env.OPENROUTER_MODEL || 'google/gemini-2.0-flash-exp:free';
-        console.log(`Calling OpenRouter (Smart Ranking) with model: ${model}`);
+        const model = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
+        console.log(`Calling Groq API with model: ${model}`);
 
         const response = await axios.post(
-            'https://openrouter.ai/api/v1/chat/completions',
+            'https://api.groq.com/openai/v1/chat/completions',
             {
                 model: model,
                 messages: [
                     { role: "user", content: prompt }
-                ]
+                ],
+                temperature: 0.7
             },
             {
                 headers: {
-                    'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
-                    'HTTP-Referer': 'http://localhost:4000',
-                    'X-Title': 'Smart Dine Backend',
+                    'Authorization': `Bearer ${process.env.GROQ_API_KEY}`,
                     'Content-Type': 'application/json'
                 }
             }
         );
 
         const generatedText = response.data.choices[0].message.content;
-        console.log("OpenRouter Raw Output:", generatedText);
+        console.log("Groq Raw Output:", generatedText);
 
         const result = extractFirstJson(generatedText);
         return result || { analysis: "Could not analyze", recommendations: [] };
 
     } catch (error) {
-        console.error("LLM Call Failed:", error.message);
-        return { analysis: "LLM_ERROR", recommendations: [] };
+        console.error("Groq Call Failed:", error.response?.data || error.message);
+        return { analysis: "AI_ERROR", recommendations: [] };
     }
 }
 
