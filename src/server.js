@@ -46,6 +46,9 @@ app.use('/api/debug', debugRoutes);
 app.use('/api/clear-cache', clearCacheRoutes);
 app.use('/api/discover', discoverRoutes);
 
+// Fallback for frontend configuration mismatch
+app.use('/query', queryRoutes);
+
 // Health check
 app.get('/', (req, res) => {
     res.json({ status: "ok" });
