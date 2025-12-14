@@ -21,7 +21,8 @@ const allowedOrigins = [
     'http://localhost:5173',
     'http://localhost:3000',
     'https://smartdine.vercel.app',
-    'https://smartdine-frontend.vercel.app'
+    'https://smartdine-frontend.vercel.app',
+    'https://smartdine-frontendcode.vercel.app'
 ];
 
 app.use(cors({
