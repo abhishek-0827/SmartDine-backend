@@ -49,6 +49,7 @@ app.use('/api/discover', discoverRoutes);
 
 // Fallback for frontend configuration mismatch
 app.use('/query', queryRoutes);
+app.use('/discover', discoverRoutes);
 
 // Health check
 app.get('/', (req, res) => {
