@@ -7,7 +7,7 @@
             "Chettinad",
             "Vegetarian"
         ],
-        "price_level": "budget",
+        "price_level": "affordable",
         "location": "Ramnagar, Coimbatore",
         "coordinates": {
             "lat": 11.0169,
@@ -67,7 +67,7 @@
             "South Indian",
             "Non-Veg"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "R.S. Puram, Coimbatore",
         "coordinates": {
             "lat": 11.016,
@@ -127,7 +127,7 @@
             "North Indian",
             "Vegetarian"
         ],
-        "price_level": "budget",
+        "price_level": "affordable",
         "location": "Ramnagar / Avinashi Road, Coimbatore",
         "coordinates": {
             "lat": 11.0202,
@@ -182,7 +182,7 @@
             "BBQ",
             "Buffet"
         ],
-        "price_level": "expensive",
+        "price_level": "exclusive",
         "location": "Town Hall / Avinashi Road, Coimbatore",
         "coordinates": {
             "lat": 11.0128,
@@ -232,7 +232,7 @@
             "Asian",
             "Continental"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Peelamedu, Coimbatore",
         "coordinates": {
             "lat": 11.0301,
@@ -287,7 +287,7 @@
             "Biryani",
             "Non-Veg"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Ramnagar, Coimbatore",
         "coordinates": {
             "lat": 11.0179,
@@ -337,7 +337,7 @@
             "Chettinad",
             "Seafood"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Gandhipuram, Coimbatore",
         "coordinates": {
             "lat": 11.0105,
@@ -386,7 +386,7 @@
             "Indian",
             "Continental"
         ],
-        "price_level": "expensive",
+        "price_level": "exclusive",
         "location": "Race Course / Brookefields area, Coimbatore",
         "coordinates": {
             "lat": 11.0192,
@@ -436,7 +436,7 @@
             "Continental",
             "Italian"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "R.S. Puram, Coimbatore",
         "coordinates": {
             "lat": 11.0174,
@@ -486,7 +486,7 @@
             "Continental",
             "Finger Food"
         ],
-        "price_level": "expensive",
+        "price_level": "exclusive",
         "location": "Race Course, Coimbatore",
         "coordinates": {
             "lat": 11.0188,
@@ -536,7 +536,7 @@
             "Italian",
             "Desserts"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Gopalapuram, Coimbatore",
         "coordinates": {
             "lat": 11.022,
@@ -586,7 +586,7 @@
             "Continental",
             "Buffet"
         ],
-        "price_level": "expensive",
+        "price_level": "exclusive",
         "location": "Bharathiyar Road, Coimbatore",
         "coordinates": {
             "lat": 11.0285,
@@ -636,7 +636,7 @@
             "Seafood",
             "Fusion"
         ],
-        "price_level": "expensive",
+        "price_level": "exclusive",
         "location": "Ram Nagar, Coimbatore",
         "coordinates": {
             "lat": 11.018,
@@ -681,7 +681,7 @@
             "Bar",
             "Grill"
         ],
-        "price_level": "expensive",
+        "price_level": "exclusive",
         "location": "Brookefields / RS Puram, Coimbatore",
         "coordinates": {
             "lat": 11.019,
@@ -731,7 +731,7 @@
             "Thai",
             "Chinese"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Bharathiyar Road, Coimbatore",
         "coordinates": {
             "lat": 11.0265,
@@ -781,7 +781,7 @@
             "Biryani",
             "Hyderabadi"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Sanganoor, Coimbatore",
         "coordinates": {
             "lat": 11.036,
@@ -826,7 +826,7 @@
             "French",
             "Italian"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Saibaba Colony, Coimbatore",
         "coordinates": {
             "lat": 11.0095,
@@ -876,7 +876,7 @@
             "Desserts",
             "Cafe"
         ],
-        "price_level": "budget",
+        "price_level": "affordable",
         "location": "New Siddhapudur, Coimbatore",
         "coordinates": {
             "lat": 11.0035,
@@ -926,7 +926,7 @@
             "Asian",
             "Barbecue"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "RS Puram, Coimbatore",
         "coordinates": {
             "lat": 11.0185,
@@ -971,7 +971,7 @@
             "South Indian",
             "Fast Food"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Gopalapuram, Coimbatore",
         "coordinates": {
             "lat": 11.023,
@@ -1021,7 +1021,7 @@
             "North Indian",
             "Desserts"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Race Course, Coimbatore",
         "coordinates": {
             "lat": 11.018,
@@ -1071,7 +1071,7 @@
             "Italian",
             "Coffee"
         ],
-        "price_level": "budget",
+        "price_level": "affordable",
         "location": "Gopalapuram, Coimbatore",
         "coordinates": {
             "lat": 11.0215,
@@ -1121,7 +1121,7 @@
             "Biryani",
             "North Indian"
         ],
-        "price_level": "budget",
+        "price_level": "affordable",
         "location": "RS Puram, Coimbatore",
         "coordinates": {
             "lat": 11.0195,
@@ -1171,7 +1171,7 @@
             "Indian",
             "Buffet"
         ],
-        "price_level": "expensive",
+        "price_level": "exclusive",
         "location": "Bharathiyar Road, Coimbatore",
         "coordinates": {
             "lat": 11.028,
@@ -1221,7 +1221,7 @@
             "Bar",
             "Cafe"
         ],
-        "price_level": "medium",
+        "price_level": "standard",
         "location": "Peelamedu, Coimbatore",
         "coordinates": {
             "lat": 11.031,
