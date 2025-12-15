@@ -24,39 +24,39 @@
             {
                 "name": "Thali (Veg)",
                 "price": "₹120",
-                "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Rava Dosa",
                 "price": "₹60",
-                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Filter Coffee",
                 "price": "₹25",
-                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Idli (2 pcs)",
                 "price": "₹40",
-                "image": "https://images.pexels.com/photos/14477866/pexels-photo-14477866.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/14477866/pexels-photo-14477866.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Masala Dosa",
                 "price": "₹80",
-                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Payasam",
                 "price": "₹50",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "06:30 AM - 10:30 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -99,7 +99,7 @@
             {
                 "name": "Ghee Roast Dosa",
                 "price": "₹95",
-                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Chicken 65",
@@ -114,9 +114,9 @@
         ],
         "opening_hours": "11:00 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -144,34 +144,34 @@
             {
                 "name": "Veg Thali",
                 "price": "₹110",
-                "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Sambar Vada",
                 "price": "₹70",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Mor Kuzhambu",
                 "price": "₹95",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Poori Masala",
                 "price": "₹80",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Mysore Pak (sweet)",
                 "price": "₹40",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "07:00 AM - 10:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -197,9 +197,9 @@
         "description": "Nationwide barbeque chain offering live grills and wide buffet selections.",
         "menu_highlights": [
             {
-                "name": "Veg \u0026 Non-Veg Live Grill Platter (per person)",
+                "name": "Veg & Non-Veg Live Grill Platter (per person)",
                 "price": "₹699",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Paneer Tikka (starter)",
@@ -214,14 +214,14 @@
             {
                 "name": "Assorted Desserts (buffet)",
                 "price": "₹199",
-                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "12:00 PM - 11:30 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -249,7 +249,7 @@
             {
                 "name": "Spaghetti Aglio Olio",
                 "price": "₹320",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Paneer Pepper Steak",
@@ -264,19 +264,19 @@
             {
                 "name": "Classic Caesar Salad",
                 "price": "₹220",
-                "image": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Chocolate Brownie with Ice Cream",
                 "price": "₹180",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "10:00 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -314,19 +314,19 @@
             {
                 "name": "Kola Urundai (meatballs)",
                 "price": "₹200",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Parotta",
                 "price": "₹60",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "11:00 AM - 10:30 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -369,14 +369,14 @@
             {
                 "name": "Kuzhi Paniyaram",
                 "price": "₹80",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "07:30 AM - 10:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -403,29 +403,29 @@
             {
                 "name": "Grilled Salmon Fillet",
                 "price": "₹650",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Rogan Josh (Lamb)",
                 "price": "₹480",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Truffle Mushroom Risotto",
                 "price": "₹520",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Chocolate Fondant",
                 "price": "₹240",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "12:00 PM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -453,29 +453,29 @@
             {
                 "name": "Eggs Benedict",
                 "price": "₹320",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Avocado Toast",
                 "price": "₹260",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Flat White (coffee)",
                 "price": "₹140",
-                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Nutella Crepe",
                 "price": "₹220",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "08:00 AM - 10:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -503,29 +503,29 @@
             {
                 "name": "Classic Margarita",
                 "price": "₹450",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Crispy Calamari",
                 "price": "₹420",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Beef Sliders (3 pcs)",
                 "price": "₹380",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Artisanal Cheese Platter",
                 "price": "₹580",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "05:00 PM - 12:00 AM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -553,7 +553,7 @@
             {
                 "name": "Classic Margherita Pizza",
                 "price": "₹320",
-                "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Paneer Tikka Masala",
@@ -563,19 +563,19 @@
             {
                 "name": "Falooda",
                 "price": "₹160",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Cold Coffee (large)",
                 "price": "₹150",
-                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "10:00 AM - 10:30 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -603,7 +603,7 @@
             {
                 "name": "Pan-Seared Sea Bass",
                 "price": "₹620",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Thai Green Curry (veg/non-veg)",
@@ -613,19 +613,19 @@
             {
                 "name": "Live Sushi Platter (weekends)",
                 "price": "₹750",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Sunday Brunch (per person)",
                 "price": "₹999",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "07:00 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -663,19 +663,19 @@
             {
                 "name": "Mango Cheesecake",
                 "price": "₹220",
-                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "12:00 PM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
         "id": "r014",
-        "name": "Sherlock\u0027s Kitchen \u0026 Bar",
+        "name": "Sherlock's Kitchen & Bar",
         "cuisines": [
             "North Indian",
             "Bar",
@@ -693,12 +693,12 @@
             "bar",
             "group-dining"
         ],
-        "description": "Popular bar \u0026 grill offering kebabs, steaks and continental mains.",
+        "description": "Popular bar & grill offering kebabs, steaks and continental mains.",
         "menu_highlights": [
             {
                 "name": "Ribeye Steak (250g)",
                 "price": "₹980",
-                "image": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Mutton Sheekh Platter",
@@ -708,19 +708,19 @@
             {
                 "name": "Loaded Fries",
                 "price": "₹210",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Old Fashioned (cocktail)",
                 "price": "₹420",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "05:00 PM - 01:00 AM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -748,17 +748,17 @@
             {
                 "name": "Pad Thai",
                 "price": "₹320",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Thai Tom Yum Soup",
                 "price": "₹220",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Honey Chilli Potato",
                 "price": "₹160",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Green Curry Chicken",
@@ -768,9 +768,9 @@
         ],
         "opening_hours": "11:30 AM - 10:30 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -813,14 +813,14 @@
         ],
         "opening_hours": "11:00 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
         "id": "r017",
-        "name": "Bizou Cafe \u0026 Grill",
+        "name": "Bizou Cafe & Grill",
         "cuisines": [
             "Cafe",
             "French",
@@ -843,29 +843,29 @@
             {
                 "name": "Croque Monsieur",
                 "price": "₹350",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Quinoa Salad",
                 "price": "₹270",
-                "image": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1059905/pexels-photo-1059905.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Sourdough Pizza - Margherita",
                 "price": "₹360",
-                "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Espresso (single)",
                 "price": "₹110",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "08:00 AM - 10:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -893,34 +893,34 @@
             {
                 "name": "Red Velvet Cake (slice)",
                 "price": "₹220",
-                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Chocolate Eclair",
                 "price": "₹140",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Butterscotch Pastry",
                 "price": "₹120",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Cold Coffee",
                 "price": "₹130",
-                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "09:00 AM - 09:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
         "id": "r019",
-        "name": "The Bermuda (Cafe \u0026 Grill)",
+        "name": "The Bermuda (Cafe & Grill)",
         "cuisines": [
             "American",
             "Asian",
@@ -943,7 +943,7 @@
             {
                 "name": "Signature Beef Burger",
                 "price": "₹320",
-                "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "BBQ Chicken Wings (6 pcs)",
@@ -953,14 +953,14 @@
             {
                 "name": "Coleslaw",
                 "price": "₹120",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "11:00 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -993,29 +993,29 @@
             {
                 "name": "Chola Poori",
                 "price": "₹140",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Gobi Manchurian",
                 "price": "₹160",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Schezwan Noodles",
                 "price": "₹180",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "07:30 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
         "id": "r021",
-        "name": "Mufasa (South Indian \u0026 More)",
+        "name": "Mufasa (South Indian & More)",
         "cuisines": [
             "South Indian",
             "North Indian",
@@ -1048,7 +1048,7 @@
             {
                 "name": "Gulab Jamun (2 pcs)",
                 "price": "₹90",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Naan / Roti Basket",
@@ -1058,9 +1058,9 @@
         ],
         "opening_hours": "08:00 AM - 10:30 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -1088,29 +1088,29 @@
             {
                 "name": "Penne Arrabiata",
                 "price": "₹260",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Grilled Cheese Sandwich",
                 "price": "₹180",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Iced Americano",
                 "price": "₹140",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Mushroom Bruschetta",
                 "price": "₹200",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "08:30 AM - 09:30 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -1148,7 +1148,7 @@
             {
                 "name": "Bread Halwa",
                 "price": "₹80",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Pepper Chicken (starter)",
@@ -1158,9 +1158,9 @@
         ],
         "opening_hours": "11:00 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
@@ -1198,24 +1198,24 @@
             {
                 "name": "Vegetable Stew (Kerala style)",
                 "price": "₹250",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Elaneer Payasam",
                 "price": "₹180",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "07:00 AM - 11:00 PM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     },
     {
         "id": "r025",
-        "name": "Bulls \u0026 Bears Bistro",
+        "name": "Bulls & Bears Bistro",
         "cuisines": [
             "Continental",
             "Bar",
@@ -1238,7 +1238,7 @@
             {
                 "name": "Tapas Platter (for 2)",
                 "price": "₹480",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Spicy Chicken Wings",
@@ -1248,19 +1248,19 @@
             {
                 "name": "Mojito Pitcher",
                 "price": "₹900",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             },
             {
                 "name": "Nachos Grande",
                 "price": "₹320",
-                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800"
             }
         ],
         "opening_hours": "12:00 PM - 12:00 AM",
         "restaurant_images": [
-            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800",
-            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=800"
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
     }
 ]
