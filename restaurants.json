@@ -1262,5 +1262,279 @@
             "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
             "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=800"
         ]
+    },
+    {
+        "id": "r026",
+        "name": "Tea Boy",
+        "cuisines": [
+            "Tea",
+            "Coffee",
+            "Snacks"
+        ],
+        "price_level": "budget",
+        "location": "Gandhipuram, Coimbatore",
+        "coordinates": {
+            "lat": 11.0183,
+            "lon": 76.9674
+        },
+        "rating": 4.1,
+        "tags": [
+            "tea",
+            "coffee",
+            "quick-bites"
+        ],
+        "description": "Popular tea chain serving flavored teas, filter coffee, and light snacks.",
+        "menu_highlights": [
+            {
+                "name": "Masala Tea",
+                "price": "₹20",
+                "image": "https://images.pexels.com/photos/1419939/pexels-photo-1419939.jpeg"
+            },
+            {
+                "name": "Ginger Tea",
+                "price": "₹25",
+                "image": "https://images.pexels.com/photos/1419939/pexels-photo-1419939.jpeg"
+            },
+            {
+                "name": "Elaichi Tea",
+                "price": "₹25",
+                "image": "https://images.pexels.com/photos/1419939/pexels-photo-1419939.jpeg"
+            },
+            {
+                "name": "Filter Coffee",
+                "price": "₹30",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            },
+            {
+                "name": "Black Coffee",
+                "price": "₹35",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            },
+            {
+                "name": "Samosa",
+                "price": "₹15",
+                "image": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg"
+            }
+        ],
+        "opening_hours": "07:00 AM - 10:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg"
+        ]
+    },
+    {
+        "id": "r027",
+        "name": "Madurai Famous Jigarthanda",
+        "cuisines": [
+            "Desserts",
+            "Tea",
+            "Coffee",
+            "Beverages"
+        ],
+        "price_level": "budget",
+        "location": "RS Puram, Coimbatore",
+        "coordinates": {
+            "lat": 11.0175,
+            "lon": 76.9448
+        },
+        "rating": 4.3,
+        "tags": [
+            "jigarthanda",
+            "tea",
+            "coffee"
+        ],
+        "description": "Famous for Madurai jigarthanda, traditional drinks, tea and coffee.",
+        "menu_highlights": [
+            {
+                "name": "Classic Jigarthanda",
+                "price": "₹70",
+                "image": "https://images.pexels.com/photos/616833/pexels-photo-616833.jpeg"
+            },
+            {
+                "name": "Special Jigarthanda",
+                "price": "₹90",
+                "image": "https://images.pexels.com/photos/616833/pexels-photo-616833.jpeg"
+            },
+            {
+                "name": "Rose Milk",
+                "price": "₹40",
+                "image": "https://images.pexels.com/photos/616833/pexels-photo-616833.jpeg"
+            },
+            {
+                "name": "Masala Tea",
+                "price": "₹20",
+                "image": "https://images.pexels.com/photos/1419939/pexels-photo-1419939.jpeg"
+            },
+            {
+                "name": "Filter Coffee",
+                "price": "₹30",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            }
+        ],
+        "opening_hours": "11:00 AM - 10:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/616833/pexels-photo-616833.jpeg"
+        ]
+    },
+    {
+        "id": "r028",
+        "name": "MDS Juice Centre",
+        "cuisines": [
+            "Juices",
+            "Tea",
+            "Coffee",
+            "Beverages"
+        ],
+        "price_level": "budget",
+        "location": "Ukkadam, Coimbatore",
+        "coordinates": {
+            "lat": 11.0046,
+            "lon": 76.9637
+        },
+        "rating": 4.0,
+        "tags": [
+            "juice",
+            "tea",
+            "coffee"
+        ],
+        "description": "Juice centre also serving tea, coffee and milkshakes.",
+        "menu_highlights": [
+            {
+                "name": "Watermelon Juice",
+                "price": "₹40",
+                "image": "https://images.pexels.com/photos/594609/pexels-photo-594609.jpeg"
+            },
+            {
+                "name": "Pomegranate Juice",
+                "price": "₹70",
+                "image": "https://images.pexels.com/photos/594609/pexels-photo-594609.jpeg"
+            },
+            {
+                "name": "Cold Coffee",
+                "price": "₹60",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            },
+            {
+                "name": "Masala Tea",
+                "price": "₹20",
+                "image": "https://images.pexels.com/photos/1419939/pexels-photo-1419939.jpeg"
+            },
+            {
+                "name": "Filter Coffee",
+                "price": "₹30",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            }
+        ],
+        "opening_hours": "10:00 AM - 10:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/594609/pexels-photo-594609.jpeg"
+        ]
+    },
+    {
+        "id": "r029",
+        "name": "Sri Krishna Bakery",
+        "cuisines": [
+            "Bakery",
+            "Tea",
+            "Coffee",
+            "Snacks"
+        ],
+        "price_level": "budget",
+        "location": "Saibaba Colony, Coimbatore",
+        "coordinates": {
+            "lat": 11.0236,
+            "lon": 76.9498
+        },
+        "rating": 4.0,
+        "tags": [
+            "bakery",
+            "tea",
+            "coffee"
+        ],
+        "description": "Bakery serving puffs, cakes along with tea and coffee.",
+        "menu_highlights": [
+            {
+                "name": "Veg Puff",
+                "price": "₹25",
+                "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg"
+            },
+            {
+                "name": "Egg Puff",
+                "price": "₹30",
+                "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg"
+            },
+            {
+                "name": "Tea",
+                "price": "₹20",
+                "image": "https://images.pexels.com/photos/1419939/pexels-photo-1419939.jpeg"
+            },
+            {
+                "name": "Filter Coffee",
+                "price": "₹30",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            },
+            {
+                "name": "Black Forest Pastry",
+                "price": "₹60",
+                "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg"
+            }
+        ],
+        "opening_hours": "08:00 AM - 10:00 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg"
+        ]
+    },
+    {
+        "id": "r030",
+        "name": "The French Door Café & Bakery",
+        "cuisines": [
+            "Cafe",
+            "Bakery",
+            "Coffee",
+            "Tea"
+        ],
+        "price_level": "medium",
+        "location": "Race Course, Coimbatore",
+        "coordinates": {
+            "lat": 11.0161,
+            "lon": 76.9691
+        },
+        "rating": 4.5,
+        "tags": [
+            "cafe",
+            "coffee",
+            "premium"
+        ],
+        "description": "Premium café and bakery specializing in artisan coffee and desserts.",
+        "menu_highlights": [
+            {
+                "name": "Cappuccino",
+                "price": "₹150",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            },
+            {
+                "name": "Latte",
+                "price": "₹160",
+                "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg"
+            },
+            {
+                "name": "Masala Tea",
+                "price": "₹80",
+                "image": "https://images.pexels.com/photos/1419939/pexels-photo-1419939.jpeg"
+            },
+            {
+                "name": "Butter Croissant",
+                "price": "₹120",
+                "image": "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg"
+            },
+            {
+                "name": "Blueberry Cheesecake",
+                "price": "₹220",
+                "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg"
+            }
+        ],
+        "opening_hours": "09:00 AM - 10:30 PM",
+        "restaurant_images": [
+            "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg"
+        ]
     }
 ]
